@@ -1,0 +1,1 @@
+A simple Lambda function saving data in a DynamoDB
